@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861824965471",
+    "project_id": "translator-app-faf3e",
+    "storage_bucket": "translator-app-faf3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861824965471:android:66e6c8494e400636b2f4ea",
+        "android_client_info": {
+          "package_name": "com.example.translatorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFDsb4dJH_aBqYPjJkU5hk5TW6NoyJL9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
